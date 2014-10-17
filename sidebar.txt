@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ygw:home|Door43 (ygw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ygw|d43-ygw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ygw/archive/master.zip|d43-ygw.zip]]
+
+**Recent Changes**
+{{changes>ns = ygw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ygw|Ethnologue data]]
+
